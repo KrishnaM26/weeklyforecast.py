@@ -2,8 +2,7 @@
 diplays the National Weather Service's weekly weather forcast for your area. Weather Forecast Office Code as well as lattitude and longitude should be added in the inputs of the file.
 
 ## Output Example
-'''
-
+`
 -- Memorial Day --
  Temperature: 82°F
  Percipitation: 30%
@@ -101,4 +100,4 @@ diplays the National Weather Service's weekly weather forcast for your area. Wea
  Wind: 0 to 5 mph - N
  Description: Mostly clear, with a low around 61.
  Mostly Clear
-'''
+`
