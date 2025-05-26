@@ -1,5 +1,7 @@
 # weeklyforecast.py
-diplays the National Weather Service's weekly weather forcast for your area. Weather Forecast Office Code as well as lattitude and longitude should be added in the inputs of the file.
+diplays the National Weather Service's weekly weather forcast for your area. 
+
+- Weather Forecast Office Code as well as lattitude and longitude should be added in the inputs of the file.
 
 ## Output Example
 ```
